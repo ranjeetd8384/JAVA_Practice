@@ -1,6 +1,8 @@
 # JAVA_Practice
 Please open the programming files and check my programs
 
+It is in JAVA_Practice folder
+
    **Basic JAVA Questions**
    
 *(Do not use any input method)*
